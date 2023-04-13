@@ -4,11 +4,13 @@ The Encryption Manager is a software tool that operates through a command-line i
 Installation
 
 To use Encryption Manager, follow these steps:
+
     Clone this repository to your local machine.
-    Install the required dependencies by running pip install -r requirements.txt.
+    Install the required dependencies by running 
+    pip install -r requirements.txt.
     Run the EM.py file using the command python3 EM.py to start the tool.
     
-    Usage
+ Usage:
 
 Encryption Manager provides the following encryption and decryption options:
 AES Encryption
