@@ -1,0 +1,9 @@
+# ENCRYPTION MANAGER Requirements File
+
+# Python Version
+python==3.9
+
+# Cryptography Packages
+pycryptodomex==3.10.1
+This file specifies the required Python version and the cryptography packages needed to run the ENCRYPTION MANAGER command line interface tool. 
+You can modify the package versions as needed to suit your project requirements.
